@@ -1,15 +1,77 @@
 .logo-container {
+  margin-inline: auto;
+  width: 800px;
   text-align: center;
+}
+
+main {
+  width: 800px;
+  margin-inline: auto;
+}
+
+#bordo {
+  color: rgb(254, 229, 85);
+}
+
+.sottotitolo {
+  text-align: center;
+  background-color: rgb(255, 253, 240);
+  padding-bottom: 1px;
+}
+
+#logo-text {
+  margin-inline: auto;
+  color: rgb(28, 28, 110);
+  font-weight: bold;
+  font-size: smaller;
+}
+
+#title {
+  font-weight: bold;
+}
+
+.lista1 li {
+  padding: 8px;
+}
+
+.lista2 li {
+  padding: 8px;
 }
 
 h1 {
   text-align: center;
+  padding-top: 30px;
+  font-weight: bold;
 }
 
-.testi {
+.image-text {
+  text-align: center;
+  color: grey;
+}
+
+#link {
+  color: brown;
+  font-weight: bold;
+  padding-bottom: 35px;
+}
+
+.lista3 {
   margin-inline: auto;
 }
 
-.foto {
-  text-align: center;
+.lista3 li {
+  font-weight: bold;
+}
+
+#recipe {
+  font-weight: normal;
+}
+
+h4 {
+  font-size: large;
+}
+
+footer {
+  width: 800px;
+  margin-inline: auto;
 }
